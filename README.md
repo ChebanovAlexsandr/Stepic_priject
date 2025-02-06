@@ -1,1 +1,1 @@
-# Stepic_priject
+# Stepic_project
